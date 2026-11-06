@@ -1,0 +1,6 @@
+# compiled files are made again by IntelliJ / Docker
+out/
+# pictures uploaded from the browser (not kept on free hosting anyway; put pictures in webapp/images/collection instead)
+data/uploads/
+.DS_Store
+Thumbs.db
